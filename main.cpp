@@ -1,3 +1,4 @@
+/* The program is educational */
 #include <iostream>
 
 using namespace std;
