@@ -10,7 +10,9 @@ int main()
     cin >> a >> b;
     int c;
     c = a+b;
+
     cout << " a+b = " << a + b << '/n'
     << " a-b = " << a - b << '/n'
-    << " a*b = " << a * b << '/n';
+    cout << " a*b = " << a * b << '/n'
+    cout << " a/b = " << a / b << '/n';
 }
